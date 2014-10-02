@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Pong2Activity!</string>
+    <string name="app_name">Pong2</string>
+    <string name="delete_me_01">I am deleteable</string>
+</resources>
