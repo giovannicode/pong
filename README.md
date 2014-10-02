@@ -1,4 +1,4 @@
-pong_angroid
+pong_android
 ============
 
 A game of pong for android
